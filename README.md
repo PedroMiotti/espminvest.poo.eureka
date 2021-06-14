@@ -1,6 +1,6 @@
 # Espminvest - Microservices project for OOP class.
 
-A Spring Boot project with microservice architecture folowing OOP principles. 
+A Spring Boot project built with a microservice architecture folowing OOP principles. 
 
 Professor : [Humberto Sandman](https://github.com/hsandmann)
 
