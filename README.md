@@ -25,20 +25,17 @@ Professor : [Humberto Sandman](https://github.com/hsandmann)
 
 ## UML diagram
 
----
 
 ![UML diagram](.github/images/diagram.png "Uml diagram")
 
 ## Database Tables
 
----
 
 ![Database tables](.github/images/databasetables.png "Database tables")
 
 
 ## Testing 
 
----
 
 If you want to test the endpoints, just download the `espminvest.poo.postman_colection.json` file inside the /.github folder, and import it into postman, all the routes are already pre-configured.
 
