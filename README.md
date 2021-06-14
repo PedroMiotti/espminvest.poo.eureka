@@ -1,6 +1,5 @@
-# ESPMINVEST - Microservices project for OOP class.
+# Espminvest - Microservices project for OOP class.
 
----
 A Spring Boot project with microservice architecture folowing OOP principles. 
 
 Professor : [Humberto Sandman](https://github.com/hsandmann)
@@ -9,7 +8,6 @@ Professor : [Humberto Sandman](https://github.com/hsandmann)
 
 ### Microservices
 
----
 [Wallet](https://github.com/PedroMiotti/espminvest.poo.wallet) - Wallet microservice responsible for coordinating transactions. </br>
 [Cambio microservice](https://github.com/PedroMiotti/espminvest.poo.cambio) - Cambio microservice responsible for providing the details of currency exchange. </br>
 [Stock microservice](https://github.com/PedroMiotti/espminvest.poo.stock) - Stock microservice responsible for providing the details of stock exchange. </br>
@@ -18,7 +16,6 @@ Professor : [Humberto Sandman](https://github.com/hsandmann)
 
 ### Common packages
 
----
 
 [Wallet Common module](https://github.com/PedroMiotti/espminvest.poo.wallet.common) - Provides wallet reusable datatypes and a controller interface  </br>
 [Cambio Common module](https://github.com/PedroMiotti/espminvest.poo.cambio.common) - Provides cambio reusable datatypes and a controller interface </br>
